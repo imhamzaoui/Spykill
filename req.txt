@@ -1,0 +1,6 @@
+pyautogui
+wmi
+urllib3
+pyinstaller
+subprocess
+shutil
